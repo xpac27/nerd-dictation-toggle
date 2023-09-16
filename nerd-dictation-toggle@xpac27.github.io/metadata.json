@@ -1,0 +1,11 @@
+{
+  "description": "Toggle nerd dictation from gnome shell.",
+  "name": "Nerd Dictation Toggle",
+  "original-authors": "XPac27",
+  "shell-version": [
+    "44"
+  ],
+  "url": "https://github.com/xpac27/nerd-dictation-toggle",
+  "uuid": "nerd-dictation-toggle@xpac27.github.io",
+  "version": 1
+}
